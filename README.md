@@ -1,9 +1,7 @@
 # macOS Mail Job Hunter & Career Matcher 🎯
 
 Tự động quét email tuyển dụng nhận được từ **Apple Mail (Mail.app)** trên macOS, phân tích các đường link đính kèm và đối chiếu tự động với 3 hồ sơ năng lực (CV):
-1. **IT Manager / Infrastructure Head** (15+ năm kinh nghiệm, MNCs)
-2. **IT Project Manager / Regional Operations** (Mô hình khu vực VN/Cambodia/Myanmar, PMP, ITIL)
-3. **Cyber Security & Technology Risk Manager** (CISA certified, ISO 27001, BCP/DRP)
+
 
 ---
 
